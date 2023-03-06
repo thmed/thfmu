@@ -1,0 +1,243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Randomize\n"
+"POT-Creation-Date: 2018-08-01 02:30+0200\n"
+"PO-Revision-Date: 2018-04-27 19:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: randomize.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: randomize.php:105
+msgid "Title"
+msgstr ""
+
+#: randomize.php:108
+msgid "Pre-Text"
+msgstr ""
+
+#: randomize.php:111 randomize_admin.php:122 randomize_admin.php:137
+#: randomize_admin.php:201
+msgid "Category"
+msgstr ""
+
+#: randomize.php:113
+msgid "All Categories "
+msgstr ""
+
+#: randomize.php:117
+msgid "Post-Text: "
+msgstr ""
+
+#: randomize.php:121
+msgid "Mode "
+msgstr ""
+
+#: randomize.php:123
+msgid "Random"
+msgstr ""
+
+#: randomize.php:124
+msgid "Rotation"
+msgstr ""
+
+#: randomize.php:126
+msgid ""
+"Note: Random can be more intensive with large record sets, and some items "
+"may never appear."
+msgstr ""
+
+#: randomize_admin.php:3
+msgid "An undefined error has occured. "
+msgstr ""
+
+#: randomize_admin.php:4
+msgid " - Error"
+msgstr ""
+
+#: randomize_admin.php:16
+msgid "Settings"
+msgstr ""
+
+#: randomize_admin.php:83
+msgid "Caution! The expected database table "
+msgstr ""
+
+#: randomize_admin.php:83
+msgid " does't seem to exist"
+msgstr ""
+
+#: randomize_admin.php:99
+msgid "Previous"
+msgstr ""
+
+#: randomize_admin.php:100
+msgid "Next"
+msgstr ""
+
+#: randomize_admin.php:123
+msgid "View all categories"
+msgstr ""
+
+#: randomize_admin.php:128
+msgid "Displaying "
+msgstr ""
+
+#: randomize_admin.php:135
+msgid "#"
+msgstr ""
+
+#: randomize_admin.php:136
+msgid "Text"
+msgstr ""
+
+#: randomize_admin.php:138
+msgid "Author"
+msgstr ""
+
+#: randomize_admin.php:139
+msgid "Action"
+msgstr ""
+
+#: randomize_admin.php:150
+msgid "visible"
+msgstr ""
+
+#: randomize_admin.php:150
+msgid "hidden"
+msgstr ""
+
+#: randomize_admin.php:159
+msgid "Edit"
+msgstr ""
+
+#: randomize_admin.php:161
+msgid "Delete"
+msgstr ""
+
+#: randomize_admin.php:165
+msgid "You like this plugin?"
+msgstr ""
+
+#: randomize_admin.php:165
+msgid "I'm happy about your donation."
+msgstr ""
+
+#: randomize_admin.php:165
+msgid "redirects you to PayPal"
+msgstr ""
+
+#: randomize_admin.php:173
+msgid " - Add new"
+msgstr ""
+
+#: randomize_admin.php:182
+msgid "The requested entry was not found."
+msgstr ""
+
+#: randomize_admin.php:186
+msgid "Yes"
+msgstr ""
+
+#: randomize_admin.php:191
+msgid "The requested entry was not found"
+msgstr ""
+
+#: randomize_admin.php:199
+msgid "Content to display: "
+msgstr ""
+
+#: randomize_admin.php:200
+msgid ""
+"You can enter text or HTML tags to embed pictures, videos and much more."
+msgstr ""
+
+#: randomize_admin.php:202
+msgid "Select a category from the list or create a new one."
+msgstr ""
+
+#: randomize_admin.php:203
+msgid "Category: "
+msgstr ""
+
+#: randomize_admin.php:206
+msgid "New Category"
+msgstr ""
+
+#: randomize_admin.php:208
+msgid "Visibility"
+msgstr ""
+
+#: randomize_admin.php:209
+msgid "Public "
+msgstr ""
+
+#: randomize_admin.php:210
+msgid "Private"
+msgstr ""
+
+#: randomize_admin.php:213
+msgid "Type of import"
+msgstr ""
+
+#: randomize_admin.php:214
+msgid "Bulk import for multiple items"
+msgstr ""
+
+#: randomize_admin.php:214
+msgid "Just a single item"
+msgstr ""
+
+#: randomize_admin.php:214
+msgid ""
+"Bulk insert will create a new record for each line (delimited by carriage "
+"return) within the text box above using the same category selected.<br /"
+">Empty lines will be ignored."
+msgstr ""
+
+#: randomize_admin.php:218
+msgid "Save changes"
+msgstr ""
+
+#: randomize_admin.php:222
+msgid "Return to "
+msgstr ""
+
+#: randomize_admin.php:222
+msgid "Summary page"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Randomize"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/randomize/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Display randomized text in a widget or on posts/pages by shortcode. "
+"Originally scripted by Greg Jackson."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "vk1337"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://vk1337.com"
+msgstr ""

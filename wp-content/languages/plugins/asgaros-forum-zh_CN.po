@@ -1,0 +1,2064 @@
+# Translation of Plugins - Asgaros Forum - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Asgaros Forum - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-12 09:42:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Asgaros Forum - Stable (latest release)\n"
+
+#: includes/forum-reports.php:217
+msgid "Posted in %s by %s"
+msgstr "发布于%s 由 %s 发表"
+
+#: includes/forum-reactions.php:200
+msgid "%s, %s and %s other users have reacted to this post."
+msgstr "%s、%s和%s其他用户对这个帖子有反应。"
+
+#: includes/forum-reactions.php:198
+msgid "%s, %s and %s have reacted to this post."
+msgstr "%s, %s 和 %s 对这个帖子回复，"
+
+#: includes/forum-reactions.php:196
+msgid "%s and %s have reacted to this post."
+msgstr "%s 和 %s 对这个帖子回复。"
+
+#: includes/forum-reactions.php:194
+msgid "%s has reacted to this post."
+msgstr "%s 对这个帖子回复。"
+
+#: admin/views/options.php:586
+msgid "Hide site-admins in memberslist"
+msgstr "在成员列表中隐藏站点管理员"
+
+#: admin/views/options.php:243
+msgid "If enabled, the names of users who have reacted to a post are shown."
+msgstr "如果启用，将显示对帖子作出回应的用户的姓名。"
+
+#: admin/views/options.php:242
+msgid "Show usernames in reactions"
+msgstr "在回应中显示用户名"
+
+#: admin/views/options.php:221
+msgid "Actual"
+msgstr "实际大小"
+
+#: admin/views/options.php:220
+msgid "Relative"
+msgstr "相对大小"
+
+#: admin/views/options.php:216
+msgid "Defines if activity-timestamps are shown in its relative or actual format."
+msgstr "定义活跃时间戳是以相对格式还是以实际格式显示。"
+
+#: admin/views/options.php:215
+msgid "Format for activity-timestamps:"
+msgstr "活跃时间戳格式："
+
+#: includes/forum-pagination.php:29
+msgctxt "Last topic"
+msgid "Last"
+msgstr "尾页"
+
+#: includes/forum.php:1872
+msgid "Link Text Missing"
+msgstr "缺少链接文本"
+
+#: includes/forum.php:625
+msgid "Please %s to create posts and topics."
+msgstr "请 %s 创建帖子和主题。"
+
+#: includes/forum.php:623
+msgid "Please %s or %s to create posts and topics."
+msgstr "请 %s 或 %s 创建帖子和主题。"
+
+#: admin/views/options.php:879
+msgid "Shows when a user got last seen inside of his profile and in the members list. This information is only gathered and shown when the \"Who is Online\" functionality is enabled."
+msgstr "显示用户最后一次出现在其个人资料和成员列表中的时间。只有在启用“谁在线”功能时，才会收集和显示此信息。"
+
+#: admin/views/options.php:878
+msgid "Show \"Last seen\""
+msgstr "显示“最后登录”"
+
+#: admin/views/options.php:401
+msgid "Allows you to define a custom title-separator for the forum. This setting is useful when different title-separators are shown in parts of the title - which is a common problem when using other SEO plugins."
+msgstr "允许您为论坛定义自定义标题分隔符。当标题部分显示不同的标题分隔符时，此设置很有用—这是使用其他SEO插件时的常见问题。"
+
+#: admin/views/options.php:400
+msgid "Title Separator"
+msgstr "标题分隔符"
+
+#: admin/admin.php:43
+msgid "URLs & SEO"
+msgstr "URL和SEO"
+
+#: admin/admin.php:567
+msgid "Forum Posts"
+msgstr "论坛文章"
+
+#: includes/forum-activity.php:87
+msgid "%s replied in %s."
+msgstr "%s 答复 %s."
+
+#. translators: amount of replies for a certain topic
+#: includes/forum.php:1007 widgets/widget-recent-topics.php:100
+msgid "%s Reply"
+msgid_plural "%s Replies"
+msgstr[0] "%s个回复"
+
+#: includes/forum.php:280
+msgid "New reply: ###TITLE###"
+msgstr "新回复: ###TITLE###"
+
+#: admin/views/options.php:469
+msgid "Users can close their own topics"
+msgstr "用户可以关闭他们自己的主题"
+
+#: admin/views/options.php:464
+msgid "Users can open their own topics"
+msgstr "用户可以打开他们自己的主题"
+
+#: admin/views/options.php:865
+msgid "Show newest member"
+msgstr "显示最新成员"
+
+#: widgets/widget-recent-posts.php:140
+msgid "Recent Forum Posts"
+msgstr "最新论坛文章"
+
+#: widgets/widget-recent-posts.php:189 widgets/widget-recent-topics.php:178
+msgid "Forum filter:"
+msgstr "论坛筛选："
+
+#: widgets/widget-recent-topics.php:135
+msgid "Recent Forum Topics"
+msgstr "最新论坛主题"
+
+#: includes/forum.php:2559
+msgid "A topic is created in the selected forum when you save this document."
+msgstr "保存此文档时，将在所选论坛中创建一个主题。"
+
+#: includes/forum.php:2522
+msgid "Create Forum Topic"
+msgstr "创建论坛主题"
+
+#: admin/admin.php:95
+msgid "Reputation"
+msgstr "声誉"
+
+#: admin/views/options.php:844
+msgid "Level 5"
+msgstr "级别5"
+
+#: admin/views/options.php:840
+msgid "Level 4"
+msgstr "级别4"
+
+#: admin/views/options.php:836
+msgid "Level 3"
+msgstr "级别3"
+
+#: admin/views/options.php:832
+msgid "Level 2"
+msgstr "级别2"
+
+#: admin/views/options.php:828
+msgid "Level 1"
+msgstr "级别1"
+
+#: admin/views/options.php:823
+msgid "Minimum amount of posts:"
+msgstr "最大文章数量："
+
+#: admin/views/options.php:818
+msgid "Enable Reputation"
+msgstr "启用声誉"
+
+#: admin/views/options.php:321
+msgid "You can use this option if you are using a custom register page."
+msgstr "如果你设置了自定义注册页面，你可以使用此选项。"
+
+#: admin/views/options.php:320
+msgid "Custom Register URL"
+msgstr "自定义注册链接"
+
+#: admin/views/options.php:314
+msgid "You can use this option if you are using a custom login page."
+msgstr "如果你设置了自定义登录页面，你可以使用此选项。"
+
+#: admin/views/options.php:313
+msgid "Custom Login URL"
+msgstr "自定义登录链接"
+
+#: integrations/integration-mycred.php:485
+msgid "Show ranks in posts and profiles"
+msgstr "在文章和个人资料中显示排名"
+
+#: integrations/integration-mycred.php:482
+msgid "Show badges in posts and profiles"
+msgstr "在文章和个人资料中显示徽章"
+
+#: integrations/integration-mycred.php:479
+msgid "Show %_plural% in posts and profiles"
+msgstr "在文章和个人资料中显示 %_plural%"
+
+#: integrations/integration-mycred.php:457
+msgid "Received Dislike"
+msgstr "收到的不喜欢"
+
+#: integrations/integration-mycred.php:433
+msgid "Received Like"
+msgstr "收到的喜欢"
+
+#: integrations/integration-mycred.php:415
+msgid "Deleted Post"
+msgstr "删除文章"
+
+#: integrations/integration-mycred.php:408
+msgid "Topic authors can receive %_plural% for replying to their own topic."
+msgstr "主题作者可以收到回复他们主题的 %_plural%。"
+
+#: integrations/integration-mycred.php:382
+msgid "New Post"
+msgstr "新文章"
+
+#: integrations/integration-mycred.php:364
+msgid "Deleted Topic"
+msgstr "已删除主题"
+
+#: integrations/integration-mycred.php:357
+#: integrations/integration-mycred.php:375
+#: integrations/integration-mycred.php:399
+#: integrations/integration-mycred.php:426
+#: integrations/integration-mycred.php:444
+#: integrations/integration-mycred.php:468
+msgid "required"
+msgstr "必填"
+
+#: integrations/integration-mycred.php:356
+#: integrations/integration-mycred.php:374
+#: integrations/integration-mycred.php:398
+#: integrations/integration-mycred.php:425
+#: integrations/integration-mycred.php:443
+#: integrations/integration-mycred.php:467
+msgid "Log template"
+msgstr "日志模板"
+
+#: integrations/integration-mycred.php:350
+#: integrations/integration-mycred.php:392
+#: integrations/integration-mycred.php:450
+msgid "Limit"
+msgstr "限制"
+
+#: integrations/integration-mycred.php:165
+msgid "Rank:"
+msgstr "排名："
+
+#: integrations/integration-mycred.php:147
+msgid "Badges:"
+msgstr "勋章："
+
+#. translators: singular label of point-type for deduction when receiving forum
+#. post dislike
+#: integrations/integration-mycred.php:68
+msgid "%singular% deduction for received forum post dislike"
+msgstr "%singular% 扣除收到的论坛帖子不喜欢"
+
+#: integrations/integration-mycred.php:62
+msgid "%plural% for received forum post like"
+msgstr "帖子被点赞奖励%plural%"
+
+#. translators: singular label of point-type for deduction when deleting forum
+#. post
+#: integrations/integration-mycred.php:58
+msgid "%singular% deduction for deleted forum post"
+msgstr "帖子被删扣除%singular%d"
+
+#: integrations/integration-mycred.php:51
+msgid "%plural% for new forum post"
+msgstr "新帖子奖励%plural%"
+
+#. translators: singular label of point-type for deduction when deleting forum
+#. topic
+#: integrations/integration-mycred.php:47
+msgid "%singular% deduction for deleted forum topic"
+msgstr "主题被删除扣除%singular%d"
+
+#: integrations/integration-mycred.php:41
+msgid "%plural% for new forum topic"
+msgstr "新主题奖励 %plural%"
+
+#: integrations/integration-mycred.php:21
+msgid "Awards %_plural% for Asgaros Forum actions."
+msgstr "论坛活动奖励%_plural% 。"
+
+#: integrations/integration-mycred.php:13
+msgid "Received Dislikes (Asgaros Forum)"
+msgstr "收到的踩"
+
+#: integrations/integration-mycred.php:12
+msgid "Received Likes (Asgaros Forum)"
+msgstr "收到的赞"
+
+#: integrations/integration-mycred.php:11
+msgid "Forum Posts (Asgaros Forum)"
+msgstr "论坛帖子（Asgaros论坛）"
+
+#: integrations/integration-mycred.php:10
+msgid "Forum Topics (Asgaros Forum)"
+msgstr "论坛主题（Asgaros论坛）"
+
+#: admin/views/options.php:61
+msgid "The description is used for meta tags."
+msgstr "描述用于元标记。"
+
+#: admin/views/options.php:60
+msgid "Forum description:"
+msgstr "论坛描述："
+
+#: includes/forum-uploads.php:296
+msgid "Allowed file types:"
+msgstr "允许的文件类型："
+
+#: admin/views/options.php:678 includes/forum-uploads.php:288
+msgid "Maximum file size:"
+msgstr "最大文件大小："
+
+#: includes/forum-uploads.php:281
+msgid "Maximum files:"
+msgstr "最大文件数量："
+
+#: admin/views/options.php:594
+msgid "Available filters"
+msgstr "可用筛选器"
+
+#: admin/views/options.php:776
+msgid "Results visible without vote"
+msgstr "投票结果可见"
+
+#: admin/views/options.php:556
+msgid "Enable Suggestions"
+msgstr "启用建议"
+
+#: admin/views/options.php:757
+msgid "Activities per page:"
+msgstr "每页活动数："
+
+#: includes/forum-memberslist.php:110
+msgid "All Users"
+msgstr "所有用户"
+
+#: admin/views/options.php:456
+msgid "Time limitation for deleting topics (in minutes):"
+msgstr "删除主题的时间限制（以分钟为单位）："
+
+#: admin/views/options.php:447
+msgid "Users can delete their own topics"
+msgstr "用户可以删除自己的主题"
+
+#: admin/views/options.php:439
+msgid "Time limitation for deleting posts (in minutes):"
+msgstr "删除帖子的时间限制（以分钟为单位）："
+
+#: admin/views/options.php:430
+msgid "Users can delete their own posts"
+msgstr "用户可以删除自己的帖子"
+
+#: admin/views/options.php:413
+msgid "Users can edit their own posts"
+msgstr "用户可以编辑自己的帖子"
+
+#: admin/views/options.php:208
+msgid "Above & Below Topics"
+msgstr "主题上方和下方"
+
+#: admin/views/options.php:207
+msgid "Below Topics"
+msgstr "主题下面"
+
+#: admin/views/options.php:206
+msgid "Above Topics"
+msgstr "主题上面"
+
+#: admin/views/options.php:202
+msgid "Location of subforums:"
+msgstr "子论坛中的位置："
+
+#: admin/admin.php:59
+msgid "Mentioning"
+msgstr "提及"
+
+#: admin/admin.php:47
+msgid "Permissions"
+msgstr "权限"
+
+#: admin/views/appearance.php:87
+msgid "Unread indicator color:"
+msgstr "未读指示颜色："
+
+#: admin/views/appearance.php:83
+msgid "Read indicator color:"
+msgstr "已读指示颜色："
+
+#: admin/views/usergroups.php:30
+msgid "Set an optional icon for the usergroup."
+msgstr "位用户组设置一个可选的图标。"
+
+#: admin/views/options.php:327
+msgid "URL-slugs for views:"
+msgstr "视图的URL别名："
+
+#: admin/views/options.php:725
+msgid "Logged in users & Moderators"
+msgstr "登录用户和版主"
+
+#: admin/views/options.php:722
+msgid "Who can use signatures:"
+msgstr "谁可以使用签名："
+
+#: includes/forum.php:981
+msgid "This topic contains a poll"
+msgstr "这个主题包含一个投票"
+
+#: includes/forum.php:977
+msgid "This topic is closed"
+msgstr "此主题已关闭"
+
+#: admin/views/options.php:269
+msgid "The Font Awesome v4 compatibility library is required, if your theme or another plugin uses the Font Awesome v4 icon library. If the Font Awesome v4 icon library is not used on your website, you can disable this option."
+msgstr "如果您的主题或其他插件使用Font Awesome v4图标库，则需要Font Awesome v4兼容库。 如果您的网站上未使用Font Awesome v4图标库，则可以禁用此选项。"
+
+#: admin/views/options.php:268
+msgid "Load Font Awesome v4 compatibility library"
+msgstr "加载Font Awesome v4兼容库"
+
+#: includes/forum-polls.php:447
+msgid "%s Participant"
+msgid_plural "%s Participants"
+msgstr[0] "%s 参与者"
+
+#: includes/forum-polls.php:430
+msgid "%s Vote"
+msgid_plural "%s Votes"
+msgstr[0] "%s 投票"
+
+#: includes/forum-polls.php:455
+msgid "Vote"
+msgstr "投票"
+
+#: includes/forum-polls.php:132
+msgid "To ensure the integrity of existing votes it is not possible to add or remove answers. However, it is still possible to make text-changes to existing answers and to poll-settings. If major changes for a poll are required, you must delete the existing poll and create a new one for this topic."
+msgstr "为了确保现有投票的完整性，不可能添加或删除答案。但是，仍然可以对现有答案和投票设置进行文本更改。如果需要对投票进行重大更改，则必须删除现有投票并为此主题创建新的投票。"
+
+#: includes/forum-polls.php:101 includes/forum-polls.php:126
+msgid "An answer ..."
+msgstr "答案…"
+
+#: includes/forum-polls.php:92 includes/forum-polls.php:140
+msgid "Remove Poll"
+msgstr "删除投票"
+
+#: includes/forum-polls.php:90 includes/forum-polls.php:138
+msgid "Allow multiple answers"
+msgstr "允许多个答案"
+
+#: includes/forum-polls.php:84
+msgid "After creating a poll it will be no longer possible to add or remove answers. This ensures the integrity of existing votes. However, it will be still possible to make text-changes to existing answers and to poll-settings. If major changes for a poll are required, you must delete the existing poll and create a new one for this topic."
+msgstr "创建投票后，将无法再添加或删除答案。这确保了现有投票的完整性。但是，仍然可以对现有答案和投票设置进行文本更改。如果需要对投票进行重大更改，则必须删除现有投票并为此主题创建新的投票。"
+
+#: includes/forum-polls.php:76
+msgid "Add another answer"
+msgstr "添加另一个答案"
+
+#: includes/forum-polls.php:68 includes/forum-polls.php:119
+msgid "Enter your question here"
+msgstr "在此处输入您的问题"
+
+#: includes/forum-polls.php:63 includes/forum-polls.php:114
+msgid "Add Poll"
+msgstr "添加投票"
+
+#: admin/views/options.php:800
+msgid "Enable spoilers"
+msgstr "启用投票扰流板"
+
+#: admin/admin.php:91
+msgid "Spoilers"
+msgstr "扰流片"
+
+#: admin/views/options.php:781
+msgid "Who can create polls:"
+msgstr "谁可以创建投票："
+
+#: admin/views/options.php:771
+msgid "Enable Polls"
+msgstr "启用投票"
+
+#: admin/admin.php:87
+msgid "Polls"
+msgstr "投票"
+
+#: admin/views/options.php:302
+msgid "Define if the slug or the ID should be used in URLs for profiles. This setting is useful if you want to hide the unique nicename of users from the public."
+msgstr "定义是否应在配置文件的URL中使用slug或ID。 如果要隐藏用户的唯一nicename，此设置非常有用。"
+
+#: admin/views/options.php:301
+msgid "URL mode for profiles:"
+msgstr "配置文件的URL模式："
+
+#: admin/views/options.php:294 admin/views/options.php:306
+msgid "Slug"
+msgstr "别名"
+
+#: admin/views/options.php:290
+msgid "Define if the slug or the ID should be used in URLs for forums and topics. This setting is useful if you encounter problems when your slugs include special characters."
+msgstr "定义是否应在论坛和主题的URL中使用slug或ID。 如果您的slugs包含特殊字符时遇到问题，此设置很有用。"
+
+#: admin/views/options.php:289
+msgid "URL mode for forums & topics:"
+msgstr "论坛和主题的网址模式："
+
+#: admin/views/options.php:262
+msgid "You can disable loading the built-in Font Awesome v5 icon library to reduce traffic if your theme or another plugin already loads this library."
+msgstr "如果您的主题或其他插件已加载此库，您可以禁用加载内置的Font Awesome v5图标库以减少流量。"
+
+#: admin/views/options.php:261
+msgid "Load Font Awesome v5 icon library"
+msgstr "加载Font Awesome v5图标库"
+
+#: includes/forum.php:2309
+msgid "Reassign all forum posts to:"
+msgstr "将所有论坛帖子重新分配给："
+
+#: includes/forum.php:2305
+msgid "Do not reassign forum posts."
+msgstr "不要重新分配论坛帖子。"
+
+#: includes/forum.php:2297
+msgid "What should be done with forum posts owned by these users?"
+msgstr "如何处理这些用户拥有的论坛帖子？"
+
+#: includes/forum.php:2295
+msgid "What should be done with forum posts owned by this user?"
+msgstr "该如何处理此用户拥有的论坛帖子？"
+
+#: includes/forum.php:1508 includes/forum.php:1550
+msgid "Last post:"
+msgstr "最新文章:"
+
+#: includes/forum-profile.php:337
+msgid "Likes Received"
+msgstr "获赞"
+
+#: includes/forum-profile.php:321
+msgid "Member Activity"
+msgstr "会员活动"
+
+#: admin/views/options.php:233
+msgid "Enable Avatars"
+msgstr "启用头像"
+
+#: admin/views/options.php:128
+msgid "Automatically embed content in posts"
+msgstr "自动在帖子中嵌入内容"
+
+#: widgets/widget-recent-posts.php:180 widgets/widget-recent-topics.php:174
+msgid "Show excerpt"
+msgstr "显示摘录"
+
+#: includes/forum-reports.php:254
+msgid "Show Post"
+msgstr "显示文章"
+
+#: includes/forum-reports.php:219
+msgid "Reported by:"
+msgstr "举报："
+
+#: includes/forum-reports.php:207
+msgid "There are no reports."
+msgstr "没有举报。"
+
+#: includes/forum-reports.php:194
+msgid "There are reports."
+msgstr "有举报。"
+
+#: widgets/widget-recent-posts.php:120 widgets/widget-recent-topics.php:115
+msgid "Read More"
+msgstr "阅读更多"
+
+#: includes/forum.php:1647
+msgid "Global Sticky"
+msgstr "全局置顶"
+
+#: includes/forum.php:1628
+msgid "Select Sticky Mode:"
+msgstr "选择置顶模式："
+
+#: includes/forum.php:1745
+msgid "Approve"
+msgstr "批准"
+
+#: includes/forum.php:579 includes/forum.php:586 includes/forum.php:607
+msgid "Sorry, you cannot access this area."
+msgstr "对不起，您不能进入这个区域。"
+
+#: includes/forum-approval.php:233
+msgid "There are no unapproved topics."
+msgstr "没有未经批准的主题."
+
+#: includes/forum-approval.php:175
+msgid "There are unapproved topics."
+msgstr "有未经批准的主题。"
+
+#: includes/forum-approval.php:158
+msgid "Thank you for your topic. Your topic will be visible as soon as it gets approved."
+msgstr "发布成功，待审核后发布。"
+
+#: includes/forum-approval.php:112
+msgid "Hello ###USERNAME###,<br><br>You received this message because there is a new unapproved forum-topic.<br><br>Topic:<br>###TITLE###<br><br>Author:<br>###AUTHOR###<br><br>Text:<br>###CONTENT###<br><br>Link:<br>###LINK###"
+msgstr "您好###USERNAME###,<br><br>您收到此邮件是因为有一个新的未经批准的论坛主题。<br><br>主题：<br>###TITLE###<br><br>作者：<br>###AUTHOR###<br><br>文本：<br>###CONTENT###<br><br>链接：<br>###LINK###"
+
+#: includes/forum-approval.php:98
+msgid "New unapproved topic"
+msgstr "新的未批准主题"
+
+#: includes/forum-approval.php:18 includes/forum.php:716
+msgid "Unapproved Topics"
+msgstr "未批准的主题"
+
+#: includes/forum-notifications.php:530
+msgid "You will automatically get notified about new topics because you are a receiver of administrative notifications."
+msgstr "您将自动收到有关新主题的通知，因为您是管理通知的接收者。"
+
+#: includes/forum-activity.php:28
+msgid "Activity in the last day."
+msgstr "最近%s天的活动。"
+
+#: includes/forum-spoilers.php:40
+msgid "Sorry, only logged-in users can see spoilers."
+msgstr "抱歉，只有登录的用户才能看到剧透."
+
+#: includes/forum-spoilers.php:24 includes/forum-spoilers.php:30
+msgid "Spoiler"
+msgstr "扰流板"
+
+#: admin/views/options.php:753
+msgid "Days of activity to show:"
+msgstr "活跃天数："
+
+#: admin/views/options.php:704
+msgid "Notify receivers of administrative notifications about new reports"
+msgstr "通知接收者有关新报告的行政通知"
+
+#: admin/views/options.php:520
+msgid "Notify receivers of administrative notifications about new topics"
+msgstr "通知接收者有关新主题的行政通知"
+
+#: admin/views/options.php:515
+msgid "The subscription-functionality is only available for logged-in users."
+msgstr "订阅功能仅对已登录的用户可用。"
+
+#: admin/views/options.php:514
+msgid "Enable subscriptions"
+msgstr "启动订阅"
+
+#: admin/views/options.php:508
+msgid "A comma-separated list of mail-addresses which can receive administrative notifications (new reports, unapproved topics, and more)."
+msgstr "以逗号分隔的邮件地址列表，可以接收管理通知（新报告、未批准的主题等）。"
+
+#: admin/views/options.php:507
+msgid "Receivers of administrative notifications:"
+msgstr "管理通知接收人："
+
+#: admin/views/options.php:195
+msgid "Guests & Normal Users"
+msgstr "访客&普通用户"
+
+#: admin/views/options.php:194
+msgid "Guests"
+msgstr "访客"
+
+#: admin/views/options.php:190
+msgid "This setting only affects forums that require approval for new topics."
+msgstr "此设置仅影响需要批准新主题的论坛。"
+
+#: admin/views/options.php:189
+msgid "Approval needed for new topics from:"
+msgstr "新主题需要以下的批准："
+
+#: admin/views/options.php:804
+msgid "Hide spoilers from logged-out users"
+msgstr "对注销用户隐藏扰流板"
+
+#: admin/tables/admin-structure-table.php:73 admin/views/structure.php:119
+msgid "Approval"
+msgstr "批准"
+
+#: includes/forum.php:564
+msgid "Sorry, only logged-in users can access the forum."
+msgstr "抱歉，只有登录的用户才能访问论坛。"
+
+#: admin/views/appearance.php:91
+msgid "Custom CSS:"
+msgstr "自定义样式："
+
+#: admin/views/options.php:160
+msgid "Guests can see topics but need to log in to access the posts they contain."
+msgstr "访客可以看到主题，但需要登录才能访问其中包含的帖子。"
+
+#: admin/views/options.php:159
+msgid "Hide posts from logged-out users"
+msgstr "对注销用户隐藏帖子"
+
+#: admin/views/options.php:153
+msgid "Hide forum from logged-out users"
+msgstr "对注销用户隐藏论坛"
+
+#: widgets/widget-recent-posts.php:185
+msgid "Group posts by topic"
+msgstr "按主题分组帖子"
+
+#: includes/forum-usergroups.php:420
+msgid "Forum Usergroups"
+msgstr "论坛用户组"
+
+#: includes/forum.php:1822
+msgid "Forum Navigation"
+msgstr "论坛导航"
+
+#: includes/forum.php:306
+msgid "Hello ###USERNAME###,<br><br>You have been mentioned in a forum-post.<br><br>Topic:<br>###TITLE###<br><br>Author:<br>###AUTHOR###<br><br>Text:<br>###CONTENT###<br><br>Link:<br>###LINK###"
+msgstr "你好 ###USERNAME###,<br><br>你已经提到的论坛帖子。<br><br>话题:<br>###TITLE###<br><br>作者:<br>###AUTHOR###<br><br>内容:<br>###CONTENT###<br><br>链接:<br>###LINK###"
+
+#: includes/forum.php:291
+msgid "New topic: ###TITLE###"
+msgstr "新主题：### TITLE ###"
+
+#: includes/forum-unread.php:305
+msgid "There are no unread topics."
+msgstr "没有未读的主题."
+
+#: includes/forum-unread.php:230
+msgid "Show Unread Topics"
+msgstr "显示未读主题"
+
+#: includes/forum-unread.php:88 includes/forum.php:714
+msgid "Unread Topics"
+msgstr "未读的话题"
+
+#: includes/forum-reports.php:83
+msgid "Hello ###USERNAME###,<br><br>There is a new report.<br><br>Topic:<br>###TITLE###<br><br>Post:<br>###CONTENT###<br><br>Post Author:<br>###AUTHOR###<br><br>Reporter:<br>###REPORTER###<br><br>Link:<br>###LINK###"
+msgstr "你好###USERNAME###,<br><br>有一份新报告。<br><br>主题:<br>###TITLE###<br><br>帖子:<br>###CONTENT###<br><br>帖子作者:<br>###AUTHOR###<br><br>记者:<br>###REPORTER###<br><br>链接:<br>###LINK###"
+
+#: includes/forum-reports.php:36
+msgid "Click to report post."
+msgstr "点击举报帖子。"
+
+#: includes/forum-reactions.php:21
+msgid "Click for thumbs up."
+msgstr "赞。"
+
+#: includes/forum-reactions.php:16
+msgid "Click for thumbs down."
+msgstr "踩。"
+
+#: includes/forum-permissions.php:705
+msgid "Forum role assigned."
+msgstr "已设置论坛角色。"
+
+#: includes/forum-permissions.php:658 includes/forum-permissions.php:659
+#: includes/forum-permissions.php:660 includes/forum-permissions.php:661
+msgid "Assign forum role:"
+msgstr "分配论坛角色："
+
+#: includes/forum-permissions.php:603
+msgid "Forum Roles:"
+msgstr "论坛角色："
+
+#: includes/forum-online.php:216
+msgid "Seen %s ago"
+msgstr "看到%s之前"
+
+#: includes/forum-memberslist.php:203
+msgid "No users found!"
+msgstr "未找到相应的用户！"
+
+#: admin/views/options.php:606 includes/forum-memberslist.php:136
+#: includes/forum-permissions.php:620
+msgid "Administrators"
+msgstr "管理员"
+
+#: admin/views/options.php:602 includes/forum-memberslist.php:126
+#: includes/forum-permissions.php:614
+msgid "Moderators"
+msgstr "版主"
+
+#: includes/forum-memberslist.php:108
+msgid "Roles:"
+msgstr "角色："
+
+#: includes/forum-memberslist.php:96 includes/forum-memberslist.php:106
+msgid "Hide Filters"
+msgstr "隐藏过滤器"
+
+#: includes/forum-memberslist.php:91 includes/forum-memberslist.php:106
+msgid "Show Filters"
+msgstr "显示过滤器"
+
+#: includes/forum-breadcrumbs.php:95
+msgid "Forum breadcrumbs - You are here:"
+msgstr "论坛导航 - 你在这里："
+
+#: admin/views/options.php:564
+msgid "Mentioning notification message:"
+msgstr "新提及通知内容："
+
+#: admin/views/options.php:560
+msgid "Mentioning notification subject:"
+msgstr "新提及通知标题："
+
+#: admin/views/options.php:538
+msgid "New topic notification message:"
+msgstr "新主题通知消息："
+
+#: admin/views/options.php:534
+msgid "New topic notification subject:"
+msgstr "新帖子通知标题："
+
+#: admin/views/options.php:529
+msgid "New post notification message:"
+msgstr "新帖子消息通知："
+
+#: admin/views/options.php:525
+msgid "New post notification subject:"
+msgstr "新主题通知标题："
+
+#: admin/views/options.php:93
+msgid "Dont create topics"
+msgstr "不创建主题"
+
+#: admin/views/appearance.php:75
+msgid "Background color (Second):"
+msgstr "背景色（第二）："
+
+#: admin/views/appearance.php:71
+msgid "Background color (First):"
+msgstr "背景色（第一）："
+
+#: admin/views/appearance.php:67
+msgid "Link color:"
+msgstr "链接颜色："
+
+#: admin/views/appearance.php:63
+msgid "Text color light:"
+msgstr "文本颜色亮度："
+
+#: includes/forum.php:1709
+msgid "Unsticky"
+msgstr "取消置顶"
+
+#: includes/forum-usergroups.php:672
+msgid "Forum Usergroups:"
+msgstr "论坛用户组:"
+
+#: includes/forum-profile.php:361
+msgid "Ban User"
+msgstr "封禁用户"
+
+#: includes/forum-profile.php:357
+msgid "Unban User"
+msgstr "解禁用户"
+
+#: includes/forum-approval.php:225 includes/forum-unread.php:294
+#: includes/forum.php:994
+msgid "In"
+msgstr "分类"
+
+#: includes/forum-feed.php:53 includes/forum-feed.php:58
+msgid "RSS Feed"
+msgstr "RSS源"
+
+#: admin/views/options.php:252
+msgid "Enable RSS Feeds"
+msgstr "启用RSS源"
+
+#: admin/views/options.php:54
+msgid "Forum title:"
+msgstr "论坛标题:"
+
+#: admin/admin.php:545
+msgid "Documentation"
+msgstr "文档"
+
+#: admin/views/options.php:735
+msgid "Allowed HTML tags:"
+msgstr "允许的HTML标记："
+
+#: admin/views/options.php:731
+msgid "Allow HTML tags in signatures"
+msgstr "允许在个性签名中使用HTML标记"
+
+#: admin/views/options.php:718
+msgid "Enable signatures"
+msgstr "启用个性签名"
+
+#: admin/admin.php:79
+msgid "Signatures"
+msgstr "签名"
+
+#: admin/views/options.php:884
+msgid "Count topic views"
+msgstr "主题总浏览量"
+
+#: admin/admin.php:161
+msgid "HTML tags are not allowed in signatures."
+msgstr "签名中不允许使用HTML标记。"
+
+#: admin/admin.php:157
+msgid "You can use the following HTML tags in signatures:"
+msgstr "您可以在签名中使用以下HTML标记："
+
+#: includes/forum-profile.php:212
+msgid "In:"
+msgstr "分类:"
+
+#: includes/forum-profile.php:192
+msgid "No posts made by this user."
+msgstr "此用户没有发表帖子。"
+
+#: includes/forum-profile.php:41 includes/forum-profile.php:67
+#: includes/forum-profile.php:131 includes/forum-profile.php:133
+msgid "Post History"
+msgstr "历史帖子"
+
+#: admin/views/appearance.php:55
+msgid "Accent color:"
+msgstr "重点颜色："
+
+#: includes/forum-activity.php:53
+msgid "Yesterday"
+msgstr "昨天"
+
+#: includes/forum-activity.php:51
+msgid "Today"
+msgstr "今天"
+
+#: admin/views/usergroups.php:44
+msgid "Add new users automatically:"
+msgstr "自动添加新用户："
+
+#: admin/views/options.php:284
+msgid "Enable SEO-friendly URLs"
+msgstr "启用SEO更友好的链接格式"
+
+#: admin/tables/admin-usergroups-table.php:88
+msgid "Automatically Add:"
+msgstr "自动添加："
+
+#: admin/tables/admin-usergroups-table.php:71
+msgid "No"
+msgstr "否"
+
+#: admin/tables/admin-usergroups-table.php:69
+msgid "Yes"
+msgstr "是"
+
+#: admin/tables/admin-usergroups-table.php:53 includes/forum-online.php:170
+msgid "%s User"
+msgid_plural "%s Users"
+msgstr[0] "%s用户"
+
+#: admin/tables/admin-structure-table.php:56
+msgid "No description yet ..."
+msgstr "尚无描述…"
+
+#: admin/admin.php:141
+msgid "Notify me when I get mentioned"
+msgstr "当我被提到时通知我"
+
+#: includes/forum-notifications.php:639
+msgid "You get notified about <b>all</b> new posts."
+msgstr "您会收到有关<b>全部</b>新帖子的通知。"
+
+#: includes/forum-notifications.php:637
+msgid "You get notified about <b>all</b> new topics."
+msgstr "您会收到有关<b>全部</b>新主题的通知。"
+
+#: includes/forum-notifications.php:571
+msgid "Notify about new posts in:"
+msgstr "在以下方面通知新帖："
+
+#: includes/forum-notifications.php:563
+msgid "You get notified about all new topics and posts."
+msgstr "您会收到有关所有新主题和帖子的通知。"
+
+#: includes/forum-notifications.php:557
+msgid "You get notified about all new topics."
+msgstr "您会收到有关所有新主题的通知。"
+
+#: includes/forum-notifications.php:551
+msgid "You get notified about activity in forums and topics you are subscribed to."
+msgstr "您会收到关于您订阅的论坛和主题的活动的通知。"
+
+#: admin/admin.php:83 includes/forum-activity.php:20
+#: includes/forum-activity.php:176 includes/forum.php:712
+msgid "Activity"
+msgstr "动态"
+
+#: includes/forum-activity.php:96
+msgid "No activity yet!"
+msgstr "尚无动态！"
+
+#: includes/forum-activity.php:80
+msgid "New topic %s created by %s."
+msgstr "新主题%s 由%s创建。"
+
+#: admin/views/usergroups.php:40
+msgid "Hide usergroup:"
+msgstr "隐藏用户组:"
+
+#: admin/views/options.php:749
+msgid "Enable Activity Feed"
+msgstr "启用动态订阅"
+
+#: admin/views/options.php:422
+msgid "Time limitation for editing posts (in minutes):"
+msgstr "编辑帖子的时间限制（以分钟计）："
+
+#: admin/tables/admin-usergroups-table.php:87
+msgid "Visibility:"
+msgstr "可见性："
+
+#: admin/tables/admin-usergroups-table.php:63
+msgid "Visible"
+msgstr "可见"
+
+#: admin/tables/admin-usergroups-table.php:61
+msgid "Hidden"
+msgstr "隐藏"
+
+#: includes/forum.php:1818
+msgid "Menu"
+msgstr "菜单"
+
+#: includes/forum-notifications.php:647
+msgid "Unsubscribe"
+msgstr "退订"
+
+#: includes/forum-notifications.php:561
+msgid "New Topics & Posts"
+msgstr "新主题和帖子"
+
+#: includes/forum-notifications.php:555
+msgid "New Topics"
+msgstr "新主题"
+
+#: includes/forum-notifications.php:549
+msgid "Individual Subscriptions"
+msgstr "非法订阅"
+
+#: includes/forum-notifications.php:542
+msgid "Subscription Settings"
+msgstr "订阅设置"
+
+#: includes/forum-notifications.php:76
+msgid "You are subscribed to <b>all</b> forums."
+msgstr "您订阅了<b>所有</b>论坛。"
+
+#: includes/forum-notifications.php:52 includes/forum-notifications.php:105
+msgid "You are subscribed to <b>all</b> topics."
+msgstr "您订阅了<b>所有的</b>回复。"
+
+#: admin/views/options.php:487
+msgid "Show category name in breadcrumbs"
+msgstr "在面包屑显示类别名称"
+
+#: admin/admin.php:51
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: includes/forum-online.php:206
+msgid "Currently online"
+msgstr "当前在线"
+
+#: includes/forum-profile.php:278
+msgid "Last seen:"
+msgstr "最近上线："
+
+#: includes/forum.php:302
+msgid "You have been mentioned!"
+msgstr "你被提及了！"
+
+#: includes/forum-database.php:330
+msgid "My first forum."
+msgstr "我的第一个论坛."
+
+#: includes/forum-database.php:329
+msgid "First Forum"
+msgstr "第一个论坛"
+
+#: includes/forum-database.php:321
+msgid "Example Category"
+msgstr "示例分类"
+
+#: admin/views/structure.php:95
+msgid "Parent:"
+msgstr "父分类："
+
+#: admin/views/options.php:552
+msgid "Enable Mentioning"
+msgstr "启用@"
+
+#: includes/forum-online.php:183
+msgid "%s Guest"
+msgid_plural "%s Guests"
+msgstr[0] "%s 位游客"
+
+#: widgets/widget-search.php:18 widgets/widget-search.php:50
+msgid "Forum Search"
+msgstr "论坛搜索"
+
+#: widgets/widget-search.php:8
+msgid "Asgaros Forum: Search"
+msgstr "Asgaros论坛：搜索"
+
+#: widgets/widget-search.php:7
+msgid "A search form for Asgaros Forum."
+msgstr "论坛的一个搜索框。"
+
+#: includes/forum-reports.php:82
+msgid "New report"
+msgstr "新的举报"
+
+#: includes/forum-reports.php:40
+msgid "You reported this post."
+msgstr "您已举报这个帖子。"
+
+#: includes/forum-reports.php:34
+msgid "Report Post"
+msgstr "举报帖子"
+
+#: includes/forum-reports.php:31
+msgid "Are you sure that you want to report this post?"
+msgstr "您确定您要举报这个帖子吗？"
+
+#: includes/forum-profile.php:348
+msgid "Edit Profile"
+msgstr "编辑简介"
+
+#: includes/forum-appearance.php:70
+msgid "Default Theme"
+msgstr "默认主题"
+
+#: admin/views/options.php:890
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: admin/views/options.php:700
+msgid "Enable reports"
+msgstr "启用举报"
+
+#: admin/views/options.php:657
+msgid "Who can upload files:"
+msgstr "谁可以上传文件："
+
+#: admin/views/options.php:645
+msgid "Allow uploads"
+msgstr "允许上传"
+
+#: admin/views/options.php:237
+msgid "Enable reactions"
+msgstr "启用顶和踩"
+
+#: admin/views/options.php:9
+msgid "Settings updated."
+msgstr "设置已更新。"
+
+#: admin/views/appearance.php:97
+msgid "Save Appearance"
+msgstr "保存外观"
+
+#: admin/views/appearance.php:47
+msgid "Font size:"
+msgstr "字体大小："
+
+#: admin/views/appearance.php:43
+msgid "Font:"
+msgstr "字体："
+
+#: admin/views/appearance.php:9
+msgid "Appearance updated."
+msgstr "外观已更新。"
+
+#: includes/forum-reports.php:249
+msgid "Delete Report"
+msgstr "删除举报"
+
+#: admin/admin.php:239 admin/views/options.php:8
+msgid "Settings"
+msgstr "设置"
+
+#: admin/admin.php:75 includes/forum-reports.php:18 includes/forum.php:718
+msgid "Reports"
+msgstr "举报"
+
+#: includes/forum-memberslist.php:29 includes/forum-memberslist.php:73
+#: includes/forum.php:710
+msgid "Members"
+msgstr "会员"
+
+#: admin/views/appearance.php:79
+msgid "Border color:"
+msgstr "边框颜色："
+
+#: admin/views/options.php:590
+msgid "Members per page:"
+msgstr "每页会员数目："
+
+#: admin/views/options.php:582
+msgid "Show members list to logged-in users only"
+msgstr "仅限已登录用户查看会员列表"
+
+#: admin/views/options.php:578
+msgid "Enable members list"
+msgstr "启用会员列表"
+
+#: admin/admin.php:63
+msgid "Members List"
+msgstr "会员列表"
+
+#: includes/forum-database.php:273
+msgid "Example Usergroup"
+msgstr "示例用户组"
+
+#: admin/views/usergroups.php:92
+msgid "Deleting this category will also permanently delete all usergroups inside it. Are you sure you want to delete this category?"
+msgstr "删除此类别也将永久删除其中的所有用户组。确实要删除此类别吗？"
+
+#: includes/forum-database.php:253
+msgid "Custom Usergroups"
+msgstr "自定义用户组"
+
+#: admin/views/options.php:88
+msgid "Create topics for new blog posts in the following forum:"
+msgstr "在以下论坛中为新博客文章创建主题："
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.asgaros.de"
+msgstr "https://www.asgaros.de"
+
+#: includes/forum-profile.php:302
+msgid "Signature:"
+msgstr "签名档："
+
+#: includes/forum-profile.php:292
+msgid "Biographical Info:"
+msgstr "个人信息："
+
+#: admin/admin.php:550
+msgid "Donate"
+msgstr "捐赠"
+
+#: admin/admin.php:540
+msgid "Official Support Forum"
+msgstr "官方支持论坛"
+
+#: admin/views/options.php:178
+msgid "Show register button"
+msgstr "显示注册按钮"
+
+#: admin/views/options.php:173
+msgid "Show logout button"
+msgstr "显示退出按钮"
+
+#: admin/views/options.php:168
+msgid "Show login button"
+msgstr "显示登录按钮"
+
+#: includes/forum.php:1919
+msgid "Logout"
+msgstr "退出"
+
+#: includes/forum-unread.php:221
+msgid "Nothing new"
+msgstr "没有内容"
+
+#: includes/forum-profile.php:228 includes/forum-profile.php:367
+msgid "This user does not exist."
+msgstr "这个用户不存在。"
+
+#: includes/forum-profile.php:332
+msgid "Replies Created"
+msgstr "已发表的回复"
+
+#: includes/forum-profile.php:327
+msgid "Topics Started"
+msgstr "已发表的话题"
+
+#: includes/forum-profile.php:285
+msgid "Member Since:"
+msgstr "成员加入于："
+
+#: includes/forum-profile.php:270
+msgid "Website:"
+msgstr "网站："
+
+#: includes/forum-profile.php:251
+msgid "First Name:"
+msgstr "名字："
+
+#: admin/admin.php:127 includes/forum-permissions.php:109
+#: includes/forum-permissions.php:659
+msgid "Moderator"
+msgstr "版主"
+
+#: admin/admin.php:128 includes/forum-permissions.php:107
+#: includes/forum-permissions.php:660
+msgid "Administrator"
+msgstr "管理员"
+
+#: admin/admin.php:126 includes/forum-notifications.php:448
+#: includes/forum-permissions.php:113 includes/forum-permissions.php:658
+msgid "User"
+msgstr "用户"
+
+#: admin/admin.php:122 includes/forum-permissions.php:590
+msgid "Forum Role"
+msgstr "论坛角色"
+
+#: includes/forum-profile.php:183 includes/forum-profile.php:239
+msgid "You need to login to have access to profiles."
+msgstr "您需要登录才能访问简介。"
+
+#: includes/forum-profile.php:35 includes/forum-profile.php:61
+#: includes/forum-profile.php:124 includes/forum-profile.php:126
+#: includes/forum-profile.php:431
+msgid "Profile"
+msgstr "简介"
+
+#: admin/views/options.php:631
+msgid "Show profiles to logged-in users only"
+msgstr "仅展示简介给登录用户"
+
+#: admin/views/options.php:627
+msgid "Enable profiles"
+msgstr "启用简介"
+
+#: admin/admin.php:67
+msgid "Profiles"
+msgstr "简介"
+
+#: admin/views/options.php:143
+msgid "Show author posts counter"
+msgstr "显示作者帖子量"
+
+#: includes/forum-notifications.php:642
+msgid "No subscriptions yet!"
+msgstr "尚未订阅！"
+
+#: includes/forum-notifications.php:20 includes/forum-notifications.php:509
+#: includes/forum.php:704
+msgid "Subscriptions"
+msgstr "订阅"
+
+#: admin/views/options.php:148
+msgid "Show description in forum"
+msgstr "在论坛中显示描述"
+
+#: includes/forum.php:1955
+msgid "Register"
+msgstr "注册"
+
+#: admin/views/structure.php:105 admin/views/usergroups.php:35
+msgid "List of available icons."
+msgstr "可用图标列表。"
+
+#: admin/views/structure.php:101 admin/views/usergroups.php:29
+msgid "Icon:"
+msgstr "图标："
+
+#: includes/forum-content.php:149
+msgid "You are not allowed to upload files with that file size."
+msgstr "您不允许上传此大小的文件。"
+
+#: includes/forum-content.php:143
+msgid "You are not allowed to upload files with that file extension."
+msgstr "您不允许上传此扩充功能文件。"
+
+#: admin/views/options.php:502
+msgid "Sender mail:"
+msgstr "寄件者信箱："
+
+#: admin/views/options.php:498
+msgid "Sender name:"
+msgstr "寄件者名称："
+
+#: includes/views/post-element.php:143
+msgid "Last edited on %s by %s"
+msgstr "最后编辑于%s由%s编辑"
+
+#: includes/forum-usergroups.php:788
+msgid "Usergroups assignments updated."
+msgstr "用户组分配更新。"
+
+#: includes/forum-usergroups.php:730
+msgid "Remove from"
+msgstr "移除来源"
+
+#: includes/forum-usergroups.php:726
+msgid "Add to"
+msgstr "新增至"
+
+#: includes/forum-usergroups.php:522
+msgid "When usergroups are selected, only users of the selected usergroups will have access to the category."
+msgstr "当用户组被选中时，只有选中用户组的用户才能访问该类别。"
+
+#: includes/forum-memberslist.php:170 includes/forum-profile.php:261
+#: includes/forum-usergroups.php:492 includes/forum-usergroups.php:509
+msgid "Usergroups:"
+msgstr "用户组："
+
+#: includes/forum-online.php:189
+msgid "Currently nobody is online."
+msgstr "目前未有用户在线。"
+
+#: includes/forum-online.php:150
+msgid "Currently Online:"
+msgstr "当前在线："
+
+#: includes/forum-online.php:143
+msgid "Newest Member:"
+msgstr "最新成员："
+
+#: admin/views/usergroups.php:136 admin/views/usergroups.php:138
+msgid "Add Usergroup"
+msgstr "添加用户组"
+
+#: admin/views/usergroups.php:60
+msgid "Are you sure you want to delete this usergroup?"
+msgstr "确实要删除此用户组吗？"
+
+#: admin/views/usergroups.php:6
+msgid "Usergroups updated."
+msgstr "用户组已更新."
+
+#: admin/views/usergroups.php:24
+msgid "Color:"
+msgstr "色彩："
+
+#: admin/tables/admin-usergroups-table.php:79
+msgid "Edit Usergroup"
+msgstr "编辑用户组"
+
+#: admin/tables/admin-usergroups-table.php:77
+msgid "Delete Usergroup"
+msgstr "删除用户组"
+
+#: admin/admin.php:235 admin/views/usergroups.php:5
+#: includes/forum-usergroups.php:601
+msgid "Usergroups"
+msgstr "用户组"
+
+#: widgets/widget-recent-posts.php:175 widgets/widget-recent-topics.php:169
+msgid "Show avatars"
+msgstr "显示头像"
+
+#: includes/forum.php:396
+msgid "Page"
+msgstr "页面"
+
+#: admin/views/structure.php:230 admin/views/structure.php:233
+msgid "Add Forum"
+msgstr "新增论坛"
+
+#: admin/views/structure.php:218 admin/views/usergroups.php:123
+msgid "Delete Category"
+msgstr "删除分类"
+
+#: admin/views/structure.php:173 admin/views/structure.php:176
+#: admin/views/structure.php:240 admin/views/structure.php:242
+#: admin/views/usergroups.php:102 admin/views/usergroups.php:105
+#: admin/views/usergroups.php:144 admin/views/usergroups.php:146
+msgid "Add Category"
+msgstr "新增分类"
+
+#: admin/views/structure.php:149
+msgid "Deleting this category will also permanently delete all forums, sub-forums, topics and posts inside it. Are you sure you want to delete this category?"
+msgstr "删除这个分类将会永久删除所有其中的论坛、子论坛、主题与帖子。您确定您要删除这个分类吗？"
+
+#: admin/views/structure.php:6
+msgid "Structure updated."
+msgstr "结构已更新。"
+
+#: admin/admin.php:233 admin/views/structure.php:5
+msgid "Structure"
+msgstr "结构"
+
+#: admin/tables/admin-structure-table.php:108
+#: admin/tables/admin-usergroups-table.php:89
+msgid "Actions:"
+msgstr "操作："
+
+#: admin/tables/admin-structure-table.php:106 admin/views/structure.php:110
+msgid "Status:"
+msgstr "状态："
+
+#: admin/tables/admin-structure-table.php:95
+#: admin/tables/admin-structure-table.php:96
+msgid "Add Sub-Forum"
+msgstr "新增子论坛"
+
+#: admin/tables/admin-structure-table.php:85
+#: admin/tables/admin-structure-table.php:86
+msgid "Delete Forum"
+msgstr "删除论坛"
+
+#: admin/tables/admin-structure-table.php:71 admin/views/structure.php:117
+msgid "Normal"
+msgstr "普通"
+
+#: admin/tables/admin-structure-table.php:72 admin/views/structure.php:118
+msgid "Closed"
+msgstr "已关闭"
+
+#: admin/views/options.php:649
+msgid "Show thumbnails"
+msgstr "显示缩图"
+
+#: includes/forum-online.php:128
+msgid "Online"
+msgstr "在线"
+
+#: admin/views/options.php:873
+msgid "Show who is online"
+msgstr "显示谁在线上"
+
+#: admin/views/options.php:483
+msgid "Enable breadcrumbs"
+msgstr "启用面包屑导航"
+
+#: admin/admin.php:39
+msgid "Features"
+msgstr "功能"
+
+#: admin/tables/admin-structure-table.php:51
+#: admin/tables/admin-usergroups-table.php:48 admin/views/options.php:295
+#: admin/views/options.php:307 admin/views/structure.php:200
+msgid "ID"
+msgstr "ID"
+
+#: admin/views/options.php:72
+msgid "Page which contains the [forum]-shortcode."
+msgstr "包含 [forum] 短代码的页面。"
+
+#: admin/views/options.php:425 admin/views/options.php:442
+#: admin/views/options.php:459 admin/views/options.php:674
+#: admin/views/options.php:686
+msgid "(0 = No limitation)"
+msgstr "（0 = 无限制）"
+
+#: admin/views/options.php:671
+msgid "Maximum files per post:"
+msgstr "每篇帖子最大文件数量："
+
+#: admin/admin.php:150
+msgid "Signature"
+msgstr "签名档"
+
+#: admin/views/options.php:598 includes/forum-memberslist.php:117
+#: includes/forum-permissions.php:608 includes/forum-statistics.php:30
+msgid "Users"
+msgstr "用户"
+
+#: admin/admin.php:99 includes/forum-statistics.php:19
+msgid "Statistics"
+msgstr "统计"
+
+#: admin/views/options.php:861
+msgid "Show statistics"
+msgstr "显示统计"
+
+#: includes/forum-notifications.php:83
+msgid "<b>Subscribe</b> to this forum."
+msgstr "<b>订阅</b>这个论坛。"
+
+#: includes/forum-notifications.php:80
+msgid "<b>Unsubscribe</b> from this forum."
+msgstr "<b>退订</b> 这个论坛。"
+
+#. Description of the plugin
+msgid "Asgaros Forum is the best forum solution for WordPress! It comes with dozens of features in a beautiful design and stays slight, simple and fast."
+msgstr "Asgaros论坛是WordPress最佳的论坛解决方案。拥有美观、轻巧设计与快速又便于使用但同时拥有数不清的功能。"
+
+#: includes/views/post-element.php:54
+msgid "Topic Author"
+msgstr "楼主"
+
+#: includes/forum-search.php:78
+msgid "No results found for:"
+msgstr "找不到结果："
+
+#: includes/forum-search.php:68
+msgid "Search results:"
+msgstr "搜索结果："
+
+#: includes/forum-statistics.php:23 includes/views/forum.php:35
+msgid "Topics"
+msgstr "主题"
+
+#: includes/forum-search.php:69 includes/forum.php:1037
+#: includes/views/forum.php:36 includes/views/overview.php:11
+msgid "Last post"
+msgstr "最后发表"
+
+#: includes/forum.php:928
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s个主题"
+
+#: includes/forum-search.php:55 widgets/widget-search.php:37
+msgid "Search ..."
+msgstr "搜索 ..."
+
+#: includes/forum.php:1726
+msgid "Open"
+msgstr "开启"
+
+#: includes/forum-approval.php:217 includes/forum.php:989
+msgid "By"
+msgstr "楼主"
+
+#: includes/forum-search.php:27 includes/forum.php:702
+msgid "Search"
+msgstr "搜索"
+
+#: includes/forum-breadcrumbs.php:87 includes/forum.php:700
+msgid "Move Topic"
+msgstr "移动主题"
+
+#: includes/forum-breadcrumbs.php:83 includes/forum-editor.php:219
+#: includes/forum.php:698 includes/forum.php:1669
+#: integrations/integration-mycred.php:340
+msgid "New Topic"
+msgstr "新增主题"
+
+#: admin/views/options.php:248
+msgid "Enable search functionality"
+msgstr "启动搜索功能"
+
+#: widgets/widget-recent-posts.php:20 widgets/widget-recent-topics.php:20
+#: widgets/widget-search.php:43
+msgid "The forum has not been configured correctly."
+msgstr "这个论坛尚目前未设置。"
+
+#: admin/views/options.php:67
+msgid "Forum location:"
+msgstr "论坛位置："
+
+#: widgets/widget-recent-topics.php:151
+msgid "Recent forum topics"
+msgstr "最近论坛的主题"
+
+#: widgets/widget-recent-topics.php:12
+msgid "Asgaros Forum: Recent Topics"
+msgstr "Asgaros论坛：最近主题"
+
+#: widgets/widget-recent-topics.php:11
+msgid "Shows recent topics in Asgaros Forum."
+msgstr "显示在Asgaros论坛最近的主题。"
+
+#: includes/forum.php:1503 widgets/widget-recent-posts.php:29
+#: widgets/widget-recent-posts.php:41 widgets/widget-recent-posts.php:54
+#: widgets/widget-recent-posts.php:76 widgets/widget-recent-topics.php:29
+#: widgets/widget-recent-topics.php:41 widgets/widget-recent-topics.php:54
+#: widgets/widget-recent-topics.php:68
+msgid "No topics yet!"
+msgstr "尚未有主题！"
+
+#: admin/views/options.php:138
+msgid "Highlight topic authors"
+msgstr "高亮楼主"
+
+#: includes/forum-notifications.php:582
+msgid "Notify about new topics in:"
+msgstr "有新主题时通知："
+
+#: includes/views/overview.php:16
+msgid "In this category are no forums yet!"
+msgstr "在这个分类还没有论坛！"
+
+#: includes/forum.php:1370 includes/forum.php:1389
+msgid "Deleted user"
+msgstr "删除用户"
+
+#: includes/forum.php:1373 includes/forum.php:1395
+msgid "Guest"
+msgstr "访客"
+
+#: includes/forum-uploads.php:180
+msgid "You need to login to have access to uploads."
+msgstr "您必须登录才有权限上传。"
+
+#: admin/views/options.php:653
+msgid "Show uploaded files to logged-in users only"
+msgstr "仅限于已登录的用户显示上传"
+
+#: admin/views/options.php:256
+msgid "Allow guest postings"
+msgstr "允许访客发表帖子"
+
+#: admin/views/options.php:123
+msgid "Allow shortcodes in posts"
+msgstr "允许在帖子中使用短代码"
+
+#: includes/forum.php:574
+msgid "Sorry, only logged-in users can access this category."
+msgstr "抱歉，只有已登录的用户才能访问此类别。"
+
+#: includes/forum-notifications.php:59 includes/forum-notifications.php:108
+msgid "<b>Subscribe</b> to this topic."
+msgstr "<b>订阅</b> 这个主题。"
+
+#: includes/forum-notifications.php:56
+msgid "<b>Unsubscribe</b> from this topic."
+msgstr "<b>退订</b> 这个主题。"
+
+#: admin/admin.php:55
+msgid "Notifications"
+msgstr "通知"
+
+#: admin/admin.php:129 admin/views/options.php:610
+#: includes/forum-memberslist.php:145 includes/forum-permissions.php:111
+#: includes/forum-permissions.php:626 includes/forum-permissions.php:661
+#: includes/views/post-element.php:59
+msgid "Banned"
+msgstr "已禁止"
+
+#: includes/forum.php:940 includes/forum.php:1036
+msgid "Subforums"
+msgstr "子论坛"
+
+#: includes/forum-content.php:73
+msgid "You are banned!"
+msgstr "您已被禁止！"
+
+#: admin/views/appearance.php:59
+msgid "Text color:"
+msgstr "文字色彩："
+
+#: admin/views/appearance.php:51
+msgid "Forum color:"
+msgstr "论坛色彩："
+
+#: admin/views/appearance.php:27
+msgid "Theme"
+msgstr "主题"
+
+#: admin/admin.php:234 admin/views/appearance.php:8
+#: admin/views/appearance.php:19
+msgid "Appearance"
+msgstr "外观"
+
+#: admin/admin.php:71
+msgid "Uploads"
+msgstr "上传"
+
+#: admin/admin.php:35
+msgid "General"
+msgstr "常规"
+
+#: admin/views/structure.php:163
+msgid "Deleting this forum will also permanently delete all sub-forums, topics and posts inside it. Are you sure you want to delete this forum?"
+msgstr "删除这个论坛将会永久删除所有其中的论坛、子论坛、主题与帖子。您确定您要删除这个论坛吗？"
+
+#: admin/views/structure.php:73 admin/views/structure.php:140
+#: admin/views/structure.php:153 admin/views/structure.php:167
+#: admin/views/usergroups.php:51 admin/views/usergroups.php:64
+#: admin/views/usergroups.php:83 admin/views/usergroups.php:96
+#: includes/forum-editor.php:272 includes/forum-editor.php:277
+msgid "Cancel"
+msgstr "取消"
+
+#: admin/views/structure.php:72 admin/views/structure.php:139
+#: admin/views/usergroups.php:50 admin/views/usergroups.php:82
+msgid "Save"
+msgstr "保存"
+
+#: admin/tables/admin-structure-table.php:89
+#: admin/tables/admin-structure-table.php:90
+msgid "Edit Forum"
+msgstr "编辑论坛"
+
+#: admin/tables/admin-structure-table.php:107 admin/views/structure.php:65
+#: admin/views/structure.php:133 admin/views/structure.php:211
+msgid "Order:"
+msgstr "顺序："
+
+#: admin/views/options.php:667
+msgid "Allowed filetypes:"
+msgstr "允许的文件格式："
+
+#: includes/forum-memberslist.php:239 includes/forum.php:930
+#: includes/views/post-element.php:49
+msgid "%s Post"
+msgid_plural "%s Posts"
+msgstr[0] "%s 个帖子"
+
+#: includes/forum.php:1012
+msgid "%s View"
+msgid_plural "%s Views"
+msgstr[0] "%s 个浏览"
+
+#: admin/views/options.php:662 admin/views/options.php:726
+#: admin/views/options.php:785 admin/views/structure.php:60
+#: admin/views/structure.php:208
+msgid "Moderators only"
+msgstr "仅版主"
+
+#: admin/views/options.php:661 admin/views/options.php:784
+#: admin/views/structure.php:59 admin/views/structure.php:206
+msgid "Logged in users only"
+msgstr "仅已登录用户"
+
+#: admin/views/options.php:660 admin/views/structure.php:58
+#: admin/views/structure.php:204
+msgid "Everyone"
+msgstr "所有人"
+
+#: admin/views/structure.php:55 admin/views/structure.php:202
+msgid "Access:"
+msgstr "访问权限："
+
+#: admin/views/options.php:133
+msgid "Highlight administrator/moderator names"
+msgstr "高亮管理员 / 版主名称"
+
+#: admin/views/options.php:183
+msgid "Show edit date"
+msgstr "显示编辑日期"
+
+#: includes/views/post-element.php:145
+msgid "Last edited on %s"
+msgstr "最后编辑于 %s"
+
+#: includes/forum.php:593
+msgid "Sorry, only logged-in users can access this topic."
+msgstr "抱歉，只有登录的用户才能访问此主题。"
+
+#: includes/forum.php:1937
+msgid "Login"
+msgstr "登录"
+
+#: includes/forum.php:628
+msgid "You need to log in to create posts and topics."
+msgstr "您需要登录才能建立帖子与主题。"
+
+#: widgets/widget-recent-posts.php:169 widgets/widget-recent-topics.php:163
+msgid "Number of topics to show:"
+msgstr "显示主题的数量："
+
+#: widgets/widget-recent-posts.php:164 widgets/widget-recent-topics.php:158
+#: widgets/widget-search.php:53
+msgid "Title:"
+msgstr "标题："
+
+#: includes/forum.php:1594
+msgid "%s ago"
+msgstr "%s 以前"
+
+#: widgets/widget-recent-posts.php:113 widgets/widget-recent-topics.php:108
+msgid "by"
+msgstr "by"
+
+#: widgets/widget-recent-posts.php:156
+msgid "Recent forum posts"
+msgstr "最近论坛的帖子"
+
+#: widgets/widget-recent-posts.php:12
+msgid "Asgaros Forum: Recent Posts"
+msgstr "Asgaros论坛：最近的帖子"
+
+#: widgets/widget-recent-posts.php:11
+msgid "Shows recent posts in Asgaros Forum."
+msgstr "显示最近在Asgaros论坛的帖子。"
+
+#: includes/forum.php:1095 includes/forum.php:1755 includes/forum.php:1780
+msgid "Are you sure you want to remove this?"
+msgstr "您确定要移除这个？"
+
+#. Author of the plugin
+msgid "Thomas Belser"
+msgstr "Thomas Belser"
+
+#. Plugin Name of the plugin
+#: integrations/integration-mycred.php:20
+msgid "Asgaros Forum"
+msgstr "Asgaros论坛"
+
+#: includes/forum-unread.php:225 includes/forum-unread.php:241
+msgid "Mark All Read"
+msgstr "全部标记已读"
+
+#: includes/forum-unread.php:219
+msgid "New posts"
+msgstr "新帖子"
+
+#: includes/views/forum.php:61
+msgid "There are no topics yet!"
+msgstr "还没有主题！"
+
+#: includes/forum-statistics.php:24
+msgid "Posts"
+msgstr "帖子"
+
+#: includes/forum-statistics.php:27
+msgid "Views"
+msgstr "浏览"
+
+#: includes/forum-editor.php:280
+msgid "Submit"
+msgstr "提交"
+
+#: includes/forum-uploads.php:270
+msgid "Add another file ..."
+msgstr "新增另一个文件..."
+
+#: includes/forum-uploads.php:250
+msgid "Upload Files:"
+msgstr "上传文件："
+
+#: includes/forum-editor.php:242
+msgid "Subject:"
+msgstr "标题："
+
+#: includes/forum-editor.php:221
+msgid "Post Reply:"
+msgstr "发表回复："
+
+#: includes/forum-editor.php:201 includes/views/post-element.php:103
+msgid "Quote from"
+msgstr "引用于"
+
+#: includes/forum-content.php:137
+msgid "You must enter a message."
+msgstr "您必须输入内容。"
+
+#: includes/forum-content.php:126
+msgid "You must enter a subject."
+msgstr "您必须输入主题。"
+
+#: includes/forum-content.php:67 includes/forum-content.php:79
+#: includes/forum-content.php:85 includes/forum-content.php:91
+#: includes/forum-content.php:103 includes/forum-content.php:111
+#: includes/forum-content.php:119 includes/forum-editor.php:189
+msgid "You are not allowed to do this."
+msgstr "您不允许这个操作。"
+
+#: includes/forum.php:2130
+msgid "Sorry, this post does not exist."
+msgstr "抱歉，这篇发表不存在。"
+
+#: includes/forum-uploads.php:201 includes/forum-uploads.php:232
+msgid "Uploaded files:"
+msgstr "已上传的文件："
+
+#: admin/tables/admin-usergroups-table.php:77 admin/views/structure.php:152
+#: admin/views/structure.php:166 admin/views/usergroups.php:63
+#: admin/views/usergroups.php:95 includes/forum-uploads.php:224
+#: includes/forum.php:1097 includes/forum.php:1757 includes/forum.php:1782
+msgid "Delete"
+msgstr "删除"
+
+#: includes/forum.php:1734
+msgid "Close"
+msgstr "锁定"
+
+#: includes/forum.php:1637 includes/forum.php:1715
+msgid "Sticky"
+msgstr "置顶"
+
+#: includes/forum.php:1692
+msgid "Reply"
+msgstr "回复"
+
+#: admin/tables/admin-usergroups-table.php:79 includes/forum.php:1790
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/forum.php:1799
+msgid "Quote"
+msgstr "引用"
+
+#: includes/forum-editor.php:201 includes/views/post-element.php:103
+msgid "on %s"
+msgstr "在 %s"
+
+#: includes/forum.php:1147
+msgid "You are not allowed to move topics."
+msgstr "您不允许移动帖子。"
+
+#: includes/forum.php:1145 includes/forum.php:1701
+msgid "Move"
+msgstr "移动"
+
+#: includes/forum.php:1119
+msgid "Move \"<strong>%s</strong>\" to new forum:"
+msgstr "移动\"<strong>%s</strong>\"至新的论坛："
+
+#: includes/forum.php:2131
+msgid "Sorry, this topic does not exist."
+msgstr "抱歉 , 这个主题不存在 ."
+
+#: includes/forum.php:1106
+msgid "Sorry, but there are no posts."
+msgstr "抱歉，尚未有帖子。"
+
+#: includes/forum.php:2132
+msgid "Sorry, this forum does not exist."
+msgstr "抱歉，这个论坛不存在。"
+
+#: includes/views/overview.php:35
+msgid "There are no categories yet!"
+msgstr "还没有分类！"
+
+#: includes/forum-breadcrumbs.php:75 includes/forum.php:696
+msgid "Post Reply"
+msgstr "回复帖子"
+
+#: includes/forum-breadcrumbs.php:79 includes/forum-editor.php:223
+#: includes/forum.php:694
+msgid "Edit Post"
+msgstr "编辑帖子"
+
+#: admin/views/structure.php:220 admin/views/usergroups.php:125
+msgid "Edit Category"
+msgstr "编辑分类"
+
+#: admin/views/options.php:83
+msgid "Topics to show per page:"
+msgstr "显示每页的主题则数："
+
+#: admin/views/options.php:78
+msgid "Replies to show per page:"
+msgstr "显示每页的回复则数："
+
+#: admin/views/structure.php:91
+msgid "Description:"
+msgstr "描述："
+
+#: admin/tables/admin-structure-table.php:105
+#: admin/tables/admin-usergroups-table.php:86 admin/views/structure.php:51
+#: admin/views/structure.php:87 admin/views/usergroups.php:20
+#: admin/views/usergroups.php:76
+msgid "Name:"
+msgstr "名称："
+
+#: admin/admin.php:170 admin/admin.php:232 includes/forum.php:264
+#: includes/forum.php:1906 includes/forum.php:2286
+msgid "Forum"
+msgstr "论坛"
