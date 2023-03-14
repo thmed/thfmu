@@ -67,7 +67,7 @@ This offer is valid to anyone in receipt of this information.
 ## Other open source code or libraries used
 
 | Name                                  | Version | License          |
-| :------------------------------------ | :-----: | ---------------- |
+| :------------------------------------ | :------ | ---------------- |
 | **christian-riesen/base32**           |  1.4.0  | MIT              |
 | **composer/installers**               |  2.1.1  | MIT              |
 | **composer/semver**                   |  1.7.2  | MIT              |
